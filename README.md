@@ -1,2 +1,5 @@
-# HTML-Pousada
- Modelo de site para pousadas
+# HTML-Pousada #
+
+ Modelo de site para pousadas/hotéis.
+ 
+ Espero que gostem! <3
